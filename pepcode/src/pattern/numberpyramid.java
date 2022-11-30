@@ -12,6 +12,7 @@ public class numberpyramid {
 		Scanner scn= new Scanner(System.in);
 		
 		int row = scn.nextInt();
+		scn.close();
 		for(int i=1;i<=row;i++) {
 			
 			// for printing space

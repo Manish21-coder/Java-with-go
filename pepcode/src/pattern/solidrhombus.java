@@ -23,6 +23,6 @@ public class solidrhombus {
 			System.out.println();
 		}
 		
-		
+		scn.close();
 	}
 }
