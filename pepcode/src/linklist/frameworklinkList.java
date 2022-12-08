@@ -1,4 +1,4 @@
-package pepcode;
+package linklist;
 
 import java.util.*;
 
